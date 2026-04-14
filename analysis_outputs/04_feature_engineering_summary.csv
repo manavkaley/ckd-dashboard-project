@@ -1,0 +1,8 @@
+Feature,Type,Purpose
+BP_Age_Interaction,Numerical,Interaction
+Creatinine_Diabetes,Numerical,Interaction
+GFR_Creatinine_Ratio,Numerical,Ratio
+HealthRiskScore,Numerical,Composite Score
+GFR_Category,Categorical,Binning
+Age_Group,Categorical,Binning
+BP_Category,Categorical,Binning
